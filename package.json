@@ -29,6 +29,7 @@
     "webpack-dev-server": "^5.1.0"
   },
   "dependencies": {
-    "@tweenjs/tween.js": "^25.0.0"
+    "@tweenjs/tween.js": "^25.0.0",
+    "phaser": "^3.87.0"
   }
 }

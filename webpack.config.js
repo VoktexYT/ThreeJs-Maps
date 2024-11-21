@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  entry: './src/index.ts', // Entry point for your application
+  entry: './src.2D.RBFight/index.ts', // Entry point for your application
   output: {
     filename: 'bundle.js',
     path: path.resolve(__dirname, 'dist'),
